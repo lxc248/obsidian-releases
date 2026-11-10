@@ -71433,5 +71433,12 @@
     "author": "Joseph Louthan",
     "description": "Builds a Scripture index page, with plain Markdown links for mdBook, of every Bible reference in a folder. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "joelouthan/obsidian-bible-ref-index"
+  },
+  {
+    "id": "interestseed",
+    "name": "InterestSeed",
+    "author": "aicoder",
+    "description": "Turn one saved item into a real 3-day experiment, then let evidence decide whether to keep it or drop it.",
+    "repo": "lxc248/-interestseed"
   }
 ]
